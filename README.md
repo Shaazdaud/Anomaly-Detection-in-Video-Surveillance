@@ -116,3 +116,6 @@ This project aims to detect anomalies in video surveillance footage using the YO
 *   **Anomaly Detection Logic:** This project provides the foundation for object detection. The actual anomaly detection logic (e.g., identifying unusual object combinations, behaviors, or locations) needs to be implemented based on your specific requirements.  This project provides the bounding box detections, and you'll need to write code to interpret those detections in the context of anomaly detection.
 *   **GUI Customization:** The GUI is a basic example. You can customize it further to add more features, such as adjusting detection thresholds, displaying confidence scores, and implementing anomaly detection logic.
 *   **requirements.txt:**  It's best practice to create a `requirements.txt` file to ensure consistent dependency management. You can generate this file using `pip freeze > requirements.txt`.
+
+
+Shaazdaud
